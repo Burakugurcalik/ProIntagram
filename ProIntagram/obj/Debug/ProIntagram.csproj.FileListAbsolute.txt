@@ -1,0 +1,14 @@
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\bin\Debug\ProIntagram.exe.config
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\bin\Debug\ProIntagram.exe
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\bin\Debug\ProIntagram.pdb
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.csproj.AssemblyReference.cache
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.csproj.SuggestedBindingRedirects.cache
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.Properties.Resources.resources
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.csproj.GenerateResource.cache
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.csproj.CoreCompileInputs.cache
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.exe
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.pdb
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.Views.Template.FrmTemplate.resources
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagram.Form1.resources
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagramAuto.Views.Pages.Dashboard.FrmDashboard.resources
+C:\Users\probh\source\repos\ProIntagram\ProIntagram\obj\Debug\ProIntagramAuto.Views.Pages.FrmUpload.resources

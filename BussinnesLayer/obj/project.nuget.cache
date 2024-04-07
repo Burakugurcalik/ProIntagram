@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RBhTEJ40TheonB/8ubE18JihEkodYWiDrsPj+G9UEJJVOjCv9ExMX77vgmF2OKLMLpLYxTuIuh7xSelZhF89w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\probh\\source\\repos\\ProIntagram\\BussinnesLayer\\BussinnesLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\probh\\.nuget\\packages\\instagramapisharp\\1.7.0\\instagramapisharp.1.7.0.nupkg.sha512",
+    "C:\\Users\\probh\\.nuget\\packages\\litedb\\5.0.19\\litedb.5.0.19.nupkg.sha512",
+    "C:\\Users\\probh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\probh\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\probh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\probh\\.nuget\\packages\\portable.bouncycastle\\1.8.6.7\\portable.bouncycastle.1.8.6.7.nupkg.sha512",
+    "C:\\Users\\probh\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512",
+    "C:\\Users\\probh\\.nuget\\packages\\xabe.ffmpeg\\5.2.6\\xabe.ffmpeg.5.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
